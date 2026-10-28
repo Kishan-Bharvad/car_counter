@@ -1,0 +1,12 @@
+.env/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.ipynb_checkpoints/
+runs/
+.env.*
+
+# Local input videos exceed GitHub normal file-size limits.
+video/*.mp4
